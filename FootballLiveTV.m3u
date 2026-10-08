@@ -4,3 +4,5 @@
 https://scontent.fbzl7-1.fna.fbcdn.net/hvideo-eag-prn/_nc_cat-103/_nc_sr_t-4/v/rASdKENp8r28G-HLOE8UWcZi2SzWVROnWEgPvYMgVM6-89w/_nc_ohc-BglEgLVTp7wQ7kNvwGBfpiJ/live-dash/dash-abr3/122175960854730691.mpd?_nc_eui2=AeEEGuguv2zLmmO6j_xV_8G5034cCQbbbfnTfhwJBttt-Y0ZMEkMyiBH5h_PwGtAvhCJ-qXMCaXKwS8zFmbcD_nS&_nc_zt=28&ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AQPc9xQwK_oMTfiJGzXey_FeY0mSmq3kxlgMWaC6u2dVvg&oe=6AC558B5
 #EXTINF:-1 tvg-id="Doraemon-New-Nobita-and-the-Castle-of-the-Undersea-Devil-2026" tvg-name="Doraemon the Movie: New Nobita and the Castle of the Undersea Devil (2026)" tvg-logo="https://image.tmdb.org/t/p/w780/gdllrWFb9ffvGkCDQAflrdnTaAg.jpg" group-title="Kids Movie",Doraemon the Movie: New Nobita and the Castle of the Undersea Devil (2026)
 https://file-eu-par-5.gofile.io/download/web/8346f374-df0e-410c-80b8-910ab1657ef5/Doraemon.New.Nobita.and.the.Castle.of.the.Undersea.Devil.2026.1080p.BluRay.Hindi.LiNE-Japanese.x264.mkv
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg" group-title="Kids",Disney Channel
+http://51.75.127.199:3141/disneychannel/index.m3u8

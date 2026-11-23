@@ -15,15 +15,73 @@ https://playztv-apps.pages.dev/a-sports/index.m3u8
 #EXTINF:-1 tvg-id="PTV-Sports" tvg-name="PTV Sports" tvg-logo="https://i.ytimg.com/vi/8cAIFfrC8h0/maxresdefault.jpg" group-title="Bangladesh vs South Africa",PTV Sports
 https://playztv-apps.pages.dev/ptv-sports/index.m3u8
 
-#EXTINF:-1 tvg-id="f27de012-0785-4152-892a-014a497e234e" tvg-name="Unite8 Sports 1" tvg-logo="https://s3.aynaott.com/storage/4380e37cf05dc85035434fe0e395974d" group-title="Sports",Unite8 Sports 1
-https://tvsen6.aynaott.com/superlaliga/index.m3u8?e=1784102509&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=b6e220b27addbd7e852fe6671bff5738
+# ===== BD TV =====
 
-#EXTINF:-1 tvg-id="e9943a0d-a64f-4da6-9a12-023d604dc6b1" tvg-name="Unite8 Sports 2" tvg-logo="https://s3.aynaott.com/storage/bec77d9ab072a37a8912d9d4f9853298" group-title="Sports",Unite8 Sports 2
-https://tvsen7.aynaott.com/Sports1/index.m3u8?e=1784102510&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&ip=52.157.32.49&token=3d148447575a06fa99eb4be6e5d9a318
+#EXTINF:-1 tvg-id="ananda-tv" tvg-name="Ananda TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Ananda_TV.svg/250px-Logo_of_Ananda_TV.svg.png" group-title="BD TV",Ananda TV
+https://playztv-apps.pages.dev/ananda-tv/index.m3u8
 
-#EXTINF:-1 tvg-id="0a652ee3-b148-46d8-8cea-bed74d997b6c" tvg-name="FIFA+" tvg-logo="https://s3.aynaott.com/storage/dc25a8382341855cd9847537971d869c" group-title="Sports",FIFA+
-https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="asian-tv" tvg-name="Asian TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/120px-Asian_TV_Logo.svg.png" group-title="BD TV",Asian TV
+https://playztv-apps.pages.dev/asian-tv/index.m3u8
 
-#EXTINF:-1 tvg-id="ca3fc4a9-af30-4a81-b915-239d8f975a85" tvg-name="Bein Sports 1" tvg-logo="https://s3.aynaott.com/storage/3f60ee0c945319f264361f201a52ed49" group-title="Sports",Bein Sports 1
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 tvg-id="atn-bangla" tvg-name="ATN Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoJqgeUPTvdYzN8fLt9tjoXhtfXrqVDhWq_jnGXtwc-KifI6Nq8-iuKgDJqf7AH_D9CKHdlFMDQtPP5BKV7cxYNyiCloFGl8I3uR-h4lk&s=10" group-title="BD TV",ATN Bangla
+https://playztv-apps.pages.dev/atn-bangla/index.m3u8
 
+#EXTINF:-1 tvg-id="atn-news" tvg-name="ATN News" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/1/18/ATN_News_Logo_without_slogan.svg/1280px-ATN_News_Logo_without_slogan.svg.png" group-title="BD TV",ATN News
+https://playztv-apps.pages.dev/atn-news/index.m3u8
+
+#EXTINF:-1 tvg-id="bijoy-tv" tvg-name="Bijoy TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_of_Bijoy_TV.svg/250px-Logo_of_Bijoy_TV.svg.png" group-title="BD TV",Bijoy TV
+https://playztv-apps.pages.dev/bijoy-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="boishakhi-tv" tvg-name="Boishakhi TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/bn/thumb/1/1f/%E0%A6%AC%E0%A7%88%E0%A6%B6%E0%A6%BE%E0%A6%96%E0%A7%80_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/250px-%E0%A6%AC%E0%A7%88%E0%A6%B6%E0%A6%BE%E0%A6%96%E0%A7%80_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="BD TV",Boishakhi TV
+https://playztv-apps.pages.dev/boishakhi-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="btv-news" tvg-name="BTV News" tvg-logo="https://thumb.wikimedia.org/wikipedia/bn/thumb/e/e4/%E0%A6%AC%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/250px-%E0%A6%AC%E0%A6%BF%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="BD TV",BTV News
+https://playztv-apps.pages.dev/btv-world/index.m3u8
+
+#EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="https://thumb.wikimedia.org/wikipedia/bn/thumb/c/ca/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/250px-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%Bেলিভিশনের_লোগো.svg.png" group-title="BD TV",BTV
+https://playztv-apps.pages.dev/btv/index.m3u8
+
+#EXTINF:-1 tvg-id="channel-9" tvg-name="Channel 9" tvg-logo="https://thumb.wikimedia.org/wikipedia/bn/thumb/f/fa/%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2_%E0%A7%AF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/250px-%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2_%E0%A7%AF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="BD TV",Channel 9
+https://playztv-apps.pages.dev/channel-9/index.m3u8
+
+#EXTINF:-1 tvg-id="channel-i" tvg-name="Channel i" tvg-logo="https://thumb.wikimedia.org/wikipedia/bn/thumb/e/e4/%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2_%E0%A6%86%E0%A6%87.svg/250px-%E0%A6%9A%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B2_%E0%A6%86%E0%A6%87.svg.png" group-title="BD TV",Channel i
+https://playztv-apps.pages.dev/channel-i/index.m3u8
+
+#EXTINF:-1 tvg-id="dbc-news" tvg-name="DBC News" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/%E0%A6%A1%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E2%80%93%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/250px-%E0%A6%A1%E0%A6%BF%E0%A6%AC%E0%A6%BF%E0%A6%B8%E0%A6%BF_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C%E2%80%93%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="BD TV",DBC News
+https://playztv-apps.pages.dev/dbc-news/index.m3u8
+
+#EXTINF:-1 tvg-id="desh-tv" tvg-name="Desh TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/250px-%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="BD TV",Desh TV
+https://playztv-apps.pages.dev/desh-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="duronto-tv" tvg-name="Duronto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="BD TV",Duronto TV
+https://playztv-apps.pages.dev/duronto-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="ekattor-tv" tvg-name="Ekattor TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoV2VSMG5F4TjGM0VlMwAibN_WLUJa-O2wNJfUB3KdaQ&s=10" group-title="BD TV",Ekattor TV
+https://playztv-apps.pages.dev/ekattor-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="jamuna-tv" tvg-name="Jamuna TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Jamuna_TV_logo.svg/960px-Jamuna_TV_logo.svg.png" group-title="BD TV",Jamuna TV
+https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="maasranga-tv" tvg-name="Maasranga TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="BD TV",Maasranga TV
+https://playztv-apps.pages.dev/maasranga-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="my-tv" tvg-name="My TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9moumOAB-Z0yvwmrj8Idqngc9jDHImbBKMEtBmaWAvQ&s" group-title="BD TV",My TV
+https://playztv-apps.pages.dev/my-tv/index.m3u8
+
+#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/3840px-NTV_%28Bangladesh%29_logo.svg.png" group-title="BD TV",NTV
+https://playztv-apps.pages.dev/ntv/index.m3u8
+
+#EXTINF:-1 tvg-id="zee-bangla" tvg-name="Zee Bangla" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A5%A5.svg/250px-%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A7%A8%E0%A7%A6%E0%A5%A5.svg.png" group-title="BD TV",Zee Bangla
+https://playztv-apps.pages.dev/zee-bangla/index.m3u8
+
+# ===== CRICKET =====
+
+#EXTINF:-1 tvg-id="willow" tvg-name="Willow Cricket" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/d/d3/Willow_Cricket.PNG/250px-Willow_Cricket.PNG" group-title="Cricket",Willow Cricket
+https://playztv-apps.pages.dev/willow/index.m3u8
+
+#EXTINF:-1 tvg-id="asports" tvg-name="A Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports TV",A Sports
+https://playztv-apps.pages.dev/asports/index.m3u8
+
+#EXTINF:-1 tvg-id="gazi-tv" tvg-name="Gazi TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVSQRKGQaeVaaN0E7CcZrLInHuojXr-c8PtVWbmtoUVw&s=10" group-title="Sports TV",Gazi TV
+https://playztv-apps.pages.dev/gazi_tv/index.m3u8
+```

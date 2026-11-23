@@ -1,13 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NTV.bd" tvg-name="NTV" tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/wHLVIJ4B7a1HdMSjaGLJ/posters/83b89557-3ae8-4ca8-8c5d-3c617359c738.png" group-title="BD",NTV HD
-https://prod-linear-media.toffeelive.com/cdn/live/n_tv/1080/1080.m3u8?hdntl=Expires=1795495386~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZThhMmNmZjItZjFiZC00NDAzLTg4ZDgtM2U3YzcwZjg1ZTRjIn0~Signature=AZh99ZM0VCVy_VCOyWzpSvzzSOykoO2OQ4NhOD2xhWvjuY1ojDiIUB8LmO1HYPiWVncT9lRlcluyMVMEaOEr9hEtJa4H&nocache=1795409027078
+#EXTINF:-1 tvg-id="T-Sports" tvg-name="T Sports" tvg-logo="https://i.ytimg.com/vi/8cAIFfrC8h0/maxresdefault.jpg" group-title="Bangladesh vs South Africa",T Sports
+https://playztv-apps.pages.dev/unite8-sports-2/index.m3u8
 
-#EXTINF:-1 tvg-id="NTV.bd" tvg-name="NTV" tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/wHLVIJ4B7a1HdMSjaGLJ/posters/83b89557-3ae8-4ca8-8c5d-3c617359c738.png" group-title="BD",NTV SD
-https://prod-linear-media.toffeelive.com/cdn/live/n_tv/576/576.m3u8?hdntl=Expires=1795495386~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZThhMmNmZjItZjFiZC00NDAzLTg4ZDgtM2U3YzcwZjg1ZTRjIn0~Signature=AZh99ZM0VCVy_VCOyWzpSvzzSOykoO2OQ4NhOD2xhWvjuY1ojDiIUB8LmO1HYPiWVncT9lRlcluyMVMEaOEr9hEtJa4H&nocache=1795408982168
+#EXTINF:-1 tvg-id="beIN-Sports-1" tvg-name="Bein Sports 1" tvg-logo="https://i.ytimg.com/vi/8cAIFfrC8h0/maxresdefault.jpg" group-title="Bangladesh vs South Africa",Bein Sports 1
+https://playztv-apps.pages.dev/bein-sports-1/index.m3u8
 
-#EXTINF:-1 tvg-id="NTV.bd" tvg-name="NTV" tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/wHLVIJ4B7a1HdMSjaGLJ/posters/83b89557-3ae8-4ca8-8c5d-3c617359c738.png" group-title="BD",NTV 320p
-https://prod-linear-media.toffeelive.com/cdn/live/n_tv/320/320.m3u8?hdntl=Expires=1795495386~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZThhMmNmZjItZjFiZC00NDAzLTg4ZDgtM2U3YzcwZjg1ZTRjIn0~Signature=AZh99ZM0VCVy_VCOyWzpSvzzSOykoO2OQ4NhOD2xhWvjuY1ojDiIUB8LmO1HYPiWVncT9lRlcluyMVMEaOEr9hEtJa4H&nocache=1795409075471
+#EXTINF:-1 tvg-id="Willow-TV" tvg-name="Willow TV" tvg-logo="https://i.ytimg.com/vi/8cAIFfrC8h0/maxresdefault.jpg" group-title="Bangladesh vs South Africa",Willow TV
+https://playztv-apps.pages.dev/willow-tv/index.m3u8
 
-#EXTINF:-1 tvg-id="NTV.bd" tvg-name="NTV" tvg-logo="https://assets-prod.services.toffeelive.com/w_256,q_75,f_webp/wHLVIJ4B7a1HdMSjaGLJ/posters/83b89557-3ae8-4ca8-8c5d-3c617359c738.png" group-title="BD",NTV 160p
-https://prod-linear-media.toffeelive.com/cdn/live/n_tv/160/160.m3u8?hdntl=Expires=1795495386~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZThhMmNmZjItZjFiZC00NDAzLTg4ZDgtM2U3YzcwZjg1ZTRjIn0~Signature=AZh99ZM0VCVy_VCOyWzpSvzzSOykoO2OQ4NhOD2xhWvjuY1ojDiIUB8LmO1HYPiWVncT9lRlcluyMVMEaOEr9hEtJa4H&nocache=1795409105914
+#EXTINF:-1 tvg-id="A-Sports" tvg-name="A Sports" tvg-logo="https://i.ytimg.com/vi/8cAIFfrC8h0/maxresdefault.jpg" group-title="Bangladesh vs South Africa",A Sports
+https://playztv-apps.pages.dev/a-sports/index.m3u8
+
+#EXTINF:-1 tvg-id="PTV-Sports" tvg-name="PTV Sports" tvg-logo="https://i.ytimg.com/vi/8cAIFfrC8h0/maxresdefault.jpg" group-title="Bangladesh vs South Africa",PTV Sports
+https://playztv-apps.pages.dev/ptv-sports/index.m3u8
